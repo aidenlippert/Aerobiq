@@ -1,0 +1,16 @@
+{
+    "development": {
+      "host": "db",
+      "port": 5432,
+      "username": "your_username",
+      "password": "your_password",
+      "database": "ai_trainer_dev"
+    },
+    "production": {
+      "host": "prod.db.server",
+      "port": 5432,
+      "username": "prod_user",
+      "password": "prod_password",
+      "database": "ai_trainer_prod"
+    }
+  }

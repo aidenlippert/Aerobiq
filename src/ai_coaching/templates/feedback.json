@@ -1,0 +1,16 @@
+{
+    "squat": {
+        "correct": "Great job! Your squat form looks good.",
+        "incorrect": "Let's work on improving your squat form."
+    },
+    "tempo": {
+        "speed_threshold": 0.5,
+        "too_slow": "You're slowing down. Try to maintain consistent speed.",
+        "good_speed": "You're maintaining good speed throughout the exercise."
+    },
+    "recommendations": {
+        "suggest_stretch": "Consider incorporating hip flexor stretches to improve your squat depth.",
+        "increase_weight": "You might consider increasing the weight to challenge yourself more.",
+        "decrease_weight": "If you're struggling, consider reducing the weight."
+    }
+}

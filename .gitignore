@@ -1,0 +1,9 @@
+venv/
+*.pyc
+__pycache__/
+.env
+node_modules/
+frontend/build/
+*.log
+.DS_Store
+ai_trainer.db

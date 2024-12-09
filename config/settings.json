@@ -1,0 +1,5 @@
+{
+    "APP_NAME": "AI Personal Trainer",
+    "THRESHOLD_SPEED": 1.5,
+    "THRESHOLD_SYMMETRY": 90.0
+  }

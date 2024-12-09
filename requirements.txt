@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+mediapipe
+numpy
+pandas
+pydantic
+sqlalchemy
+python-dotenv
+joblib
+opencv-python
+scikit-learn

@@ -1,0 +1,31 @@
+{
+  "name": "ai-personal-trainer-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.24.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-webcam": "^6.1.0",
+    "tailwindcss": "^2.2.19",
+    "@mediapipe/pose": "^0.4.1646424915",
+    "@mediapipe/camera_utils": "^0.1.1646424915",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-react": "^7.16.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.64.1",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.4.0",
+    "jest": "^27.3.1",
+    "postcss": "^8.4.5",
+    "autoprefixer": "^10.4.0"
+  },
+  "scripts": {
+    "start": "webpack serve --mode development --open",
+    "build": "webpack --mode production",
+    "test": "jest"
+  }
+}
